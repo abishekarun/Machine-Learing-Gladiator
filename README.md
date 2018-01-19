@@ -6,7 +6,8 @@ After finding out the best combination, we find out the better algorithm among *
 
 For all comparison purposes, micro avergae F1 score and macro average F1 score is used to find out the better model/algorithm.
 
-The Final Markdown file is [here](https://github.com/abishekarun/Machine-Learing-Gladiator/blob/master/car_evaluation.md)
+The Final Markdown file is [here](https://github.com/abishekarun/Machine-Learing-Gladiator/blob/master/car_evaluation.md) for this project.
+
 The resources that helped me are:
 
 + [Estimate Model Accuracy in R](https://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/)
